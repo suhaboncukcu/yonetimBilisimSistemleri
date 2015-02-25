@@ -38,9 +38,9 @@ Stakeholder: Paydaş. Kurumla ilişkide olan herkes.
 6. 
 
 #Information System Blackbox
-..Input - raw data
-..Process - processing raw data to information
-..Output - presenting the information
++ Input - raw data
++ Process - processing raw data to information
++ Output - presenting the information
 
 
 
