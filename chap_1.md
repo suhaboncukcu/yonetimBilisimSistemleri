@@ -30,17 +30,17 @@ Stakeholder: Paydaş. Kurumla ilişkide olan herkes.
 
 
 #IS yatırımlarının sebepleri
-1 - Operational excellence
-2 - New products, services,
-3 - Customer, Supplier 
-4 - 
-5 - 
-6 - 
+1. Operational excellence
+2. New products, services,
+3. Customer, Supplier 
+4. 
+5. 
+6. 
 
 #Information System Blackbox
-Input - raw data
-Process - processing raw data to information
-Output - presenting the information
+..Input - raw data
+..Process - processing raw data to information
+..Output - presenting the information
 
 
 
