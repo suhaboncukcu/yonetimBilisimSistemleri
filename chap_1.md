@@ -13,19 +13,19 @@ missozluk.com
 
 
 #Kavramlar
-Dijital: Kopyalanabilir, maddi değeri olan ve dijital ortamda saklanabilen.
-Dijital İşletme: Herhangi bir metadan bağımsız dijital ortamda çalışabilen işletme. (tam dijital işletme idealdir, yoktur) 
-ROI: return of investment, yatırımın ne kadar getiri dönüş sağlayacağı. Bunu dijitalde yapamıyoruz, böyle bir model yok. 
-Innovation: Bilinen bilgiyi ekonomik değer haline getirmek. (Edison)
-Bilgi: İşlenmiş veri. 
-Information Systems: set of interrelated components
++ **Dijital**: Kopyalanabilir, maddi değeri olan ve dijital ortamda saklanabilen.
++ **Dijital İşletme** : Herhangi bir metadan bağımsız dijital ortamda çalışabilen işletme. (tam dijital işletme idealdir, yoktur) 
++ **ROI**: return of investment, yatırımın ne kadar getiri dönüş sağlayacağı. Bunu dijitalde yapamıyoruz, böyle bir model yok. 
++ **Innovation**: Bilinen bilgiyi ekonomik değer haline getirmek. (Edison)
++ **Bilgi**: İşlenmiş veri. 
++ **Information Systems**: set of interrelated components
 
-Data: işlenmemiş ham veri
-Information: işlenmiş veri
-Knowledge: İnsanlar tarafından anlamlandırıp, kullanılabilir duruma olması. Amaca yönelik.
-Wisdom: Knowledge'ın gerektiği yerlerde kullanılması. 
++ **Data**: işlenmemiş ham veri
++ **Information**: işlenmiş veri
++ **Knowledge**: İnsanlar tarafından anlamlandırıp, kullanılabilir duruma olması. Amaca yönelik.
++ **Wisdom**: Knowledge'ın gerektiği yerlerde kullanılması. 
 
-Stakeholder: Paydaş. Kurumla ilişkide olan herkes. 
++ **Stakeholder**: Paydaş. Kurumla ilişkide olan herkes. 
 
 
 
