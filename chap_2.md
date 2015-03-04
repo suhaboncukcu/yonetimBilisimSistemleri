@@ -1,1 +1,4 @@
-#will start at 17:30 - 04.03.15
+#Chapter 2
+
+### Global E-business and Collaboration
+
