@@ -20,5 +20,6 @@
 
 +  **BIS Architecture (alttan yukarı):** DB -> TPS -> MIS -> DSS -> ESS
 
+*ÖNÜMÜZDEKİ HAFTA DERS YOK*
 
 
