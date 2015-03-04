@@ -13,10 +13,12 @@
 +  **Transaction Processing System - TPS:** Bir işletmenin yaptığı en alt seviyedeki işlem transectiondır. TPS, içerisinde transaction'ların olduğu (bir fonksiyon kütüphanesi gibi) 
 
 +  **Business Intelligence:** Bilginin işlenip anlamlı bilgi çıkarma işi. 
-> **içerisinde 3 adet şey var**
+> *içerisinde 3 adet şey var*
 > + MIS - Management Information System -> DATA TO INFORMATION ve bu aşamaya gelmek için geçen süreçler birleşip sistem oluşturuyor.
 > + DSS - Decision Supporting System -> Gelecek ile ilgilenir. Karar aşaması için örnekler sunar. 
 > + ESS - Executive Support System -> Üst yönetime verilen bilgiler. Stratejik planların yapıldığı yerler. 
 
 +  **BIS Architecture (alttan yukarı):** DB -> TPS -> MIS -> DSS -> ESS
+
+
 
